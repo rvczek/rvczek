@@ -1,9 +1,5 @@
-
-
-Hi! I'm @_rvczek!
-
 ```
-I'm graphic designer & developer (amateur).
+Hi! I'm @_rvczek! I'm graphic designer & developer (amateur).
 ```
 
 ##### About me:
