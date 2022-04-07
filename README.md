@@ -1,7 +1,6 @@
 > **About me:**
 - Name: Patryk
 - Age: 20 
-- Country: Poland 🇵🇱
 - Contact: [DSC](https://discord.com/users/533949911033708545)
 
 > **Projects:**
