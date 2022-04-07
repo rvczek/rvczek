@@ -1,8 +1,9 @@
 
+
 Hi! I'm @_rvczek!
 
 ```
-I'm graphic designer & developer (amateur)
+I'm graphic designer & developer (amateur). My interests are spending free time with friends, motorization and creating new things like: computer graphics / discord bots 
 ```
 
 ##### About me:
