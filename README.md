@@ -14,4 +14,3 @@ I'm graphic designer & developer (amateur).
 
 ##### Projects:
 - [X] Owner [@vaobot](https://discord.gg/Ev2uMq4TSG)
-- [X] 'Dev' [@Eturn.](https://discord.gg/DWxzvCUkyE)
